@@ -1,4 +1,13 @@
-console.log(age);
+{let age= 5; //number
+let firstName = 'jordan'; //String
+let lastName = 'Rendon'; //String
+let issStudent = false ; //boolean
+let gender = 'male'; // string
+let city //undefine
+let country =null; //null
 
-console.log(nombre)
-let nombre='Stiven'
+console.log(typeof city)
+}
+
+
+
