@@ -28,7 +28,7 @@ for (const key in numeros) {
    }
 }
 
-console.warn('For aech')
+console.warn('For each')
 
 numeros.forEach(element => {
     console.log(element)
